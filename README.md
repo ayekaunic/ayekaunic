@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on my Final Year Project.<br>👯 Looking to collaborate on projects related to Mobile Application Development and Automation.<br>🤝 Seeking help refining my skills in Flutter and learning best practices for building high-quality mobile applications.<br>🌱 I’m currently learning how to land Upwork projects and improve my soft skills.<br>💬 Ask me anything about football! From favorite teams to memorable matches, I'm always up for a chat about the beautiful game.<br>⚡ Fun fact: I enjoy watching tech and business videos in my free time, exploring the latest trends and innovations in the industry.
+🔭 Currently working on my Final Year Project.<br>👯 Looking to collaborate on projects related to Mobile Application Development and Automation.<br>🤝 Seeking help refining my skills in Flutter and learning best practices for building high-quality mobile applications.<br>💬 Ask me anything about football! From favorite teams to memorable matches, I'm always up for a chat about the beautiful game.<br>⚡ Fun fact: I enjoy watching tech and business videos in my free time, exploring the latest trends and innovations in the industry.
 
 
 # 🌐 Socials:
